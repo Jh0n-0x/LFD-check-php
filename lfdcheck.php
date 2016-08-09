@@ -1,4 +1,12 @@
 <?php
+
+/*
+	tool hacker 
+	by Pablo Santhus
+	08/05/2016
+	LFD check Vuln
+*/
+
 	error_reporting(0);
 	set_time_limit(0);
 	
