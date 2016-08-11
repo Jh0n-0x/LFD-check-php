@@ -25,6 +25,7 @@ print"\n";
 echo "LFD Check \n";
 echo "Criado por Pablo Santhus \n";
 echo "Escaneando website: " . $argv[2] . "\n";
+sleep(3);
 print "\n";
 
 
